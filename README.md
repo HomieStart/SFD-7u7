@@ -1,4 +1,4 @@
-# SFD-7u7
+# SFD-7u7 Mode
 XHomie for Atomx Gamer
 
-Press Atl+Down on other dead player
+Press Atl+DArror on other dead player
